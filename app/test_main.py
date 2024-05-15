@@ -1,6 +1,5 @@
 import pytest
 from app.main import get_coin_combination
-from typing import List
 
 
 def test_get_coin_combination_1_penny() -> None:
